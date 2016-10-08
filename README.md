@@ -23,6 +23,6 @@ Powerline status line, pathogen, markdown, and vim-sensible.
 ## Installation
 
 ```
-git clone https://github.com/vboginskey/dotfiles.git ~/.dotfiles
+git clone https://github.com/Hyra/dotfiles.git ~/.dotfiles
 ~/.dotfiles/install
 ```
