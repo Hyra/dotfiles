@@ -4,7 +4,7 @@ This is a repository of my dotfiles. It's a barebones configuration that sets so
 
 ![Screenshot](http://i.imgur.com/fh9zxjQ.png)
 
-## Contents
+## Content
 
 #### Zsh
 
